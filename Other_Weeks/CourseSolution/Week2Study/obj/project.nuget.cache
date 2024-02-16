@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JW7kK3gqmeRYFJfmOXOmXudFtDiLW0U0h34dPfL0z3GUTcXa184qEpVvNmvWyP+cv+KpBP2WfCHXSxq2x4i6Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diablo\\source\\repos\\Kamp-2024-CSharp-\\Other_Weeks\\CourseSolution\\Week2Study\\Week2Study.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
