@@ -1,0 +1,15 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\bin\Debug\net7.0\Week2Study.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\bin\Debug\net7.0\Week2Study.deps.json
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\bin\Debug\net7.0\Week2Study.runtimeconfig.json
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\bin\Debug\net7.0\Week2Study.dll
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\bin\Debug\net7.0\Week2Study.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.AssemblyInfoInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.AssemblyInfo.cs
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.sourcelink.json
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.dll
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\refint\Week2Study.dll
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\Week2Study.genruntimeconfig.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week2Study\obj\Debug\net7.0\ref\Week2Study.dll
