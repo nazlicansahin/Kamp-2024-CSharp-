@@ -1,0 +1,7 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Interfaces\obj\Debug\Interfaces.pdb

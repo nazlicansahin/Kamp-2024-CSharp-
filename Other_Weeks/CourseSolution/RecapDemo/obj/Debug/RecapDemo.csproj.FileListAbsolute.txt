@@ -1,0 +1,10 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\RecapDemo\obj\Debug\RecapDemo.pdb
