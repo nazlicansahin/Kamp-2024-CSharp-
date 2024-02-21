@@ -1,0 +1,7 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Inheritance\obj\Debug\Inheritance.pdb

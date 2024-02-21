@@ -11,8 +11,25 @@ namespace Interfaces
         static void Main(string[] args)
         {
             //InterfacesIntro();
+            //Demo();
+            //Diyelim ki iki verin var ve sen bunu iki farklı servera eklemek istiyorsun
+            ICustomerDal[] customerDals = new ICustomerDal[2]
+            { new OracleServerCustomerDal(), 
+              new SqlServerCustomerDal() 
+            };
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+            }
+
             Console.ReadLine();
 
+        }
+
+        private static void Demo()
+        {
+            CustomerManager customerManager = new CustomerManager();
+            customerManager.Add(new SqlServerCustomerDal());
         }
 
         private static void InterfacesIntro()
