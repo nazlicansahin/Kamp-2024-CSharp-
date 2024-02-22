@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo", "ThreadingDemo\ThreadingDemo.csproj", "{AEB32F76-3D60-47EE-8411-80A9F6473E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{90162CA0-4A1F-4552-A7CF-0182EE2365E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{AEB32F76-3D60-47EE-8411-80A9F6473E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB32F76-3D60-47EE-8411-80A9F6473E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB32F76-3D60-47EE-8411-80A9F6473E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90162CA0-4A1F-4552-A7CF-0182EE2365E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90162CA0-4A1F-4552-A7CF-0182EE2365E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90162CA0-4A1F-4552-A7CF-0182EE2365E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90162CA0-4A1F-4552-A7CF-0182EE2365E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{5EA991AF-B271-44BD-A3F6-50E83B8BF2E8} = {815FC8C9-364A-4112-83C1-7807097D8E78}
 		{929E36EC-3111-4327-AECA-CF0DB5307BF3} = {815FC8C9-364A-4112-83C1-7807097D8E78}
 		{AEB32F76-3D60-47EE-8411-80A9F6473E6E} = {815FC8C9-364A-4112-83C1-7807097D8E78}
+		{90162CA0-4A1F-4552-A7CF-0182EE2365E3} = {815FC8C9-364A-4112-83C1-7807097D8E78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7F3FE40-0A69-47D4-AC1A-2D6AAFC4F8F5}
