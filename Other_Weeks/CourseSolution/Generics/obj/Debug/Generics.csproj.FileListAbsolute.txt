@@ -1,0 +1,7 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\bin\Debug\Generics.exe.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\bin\Debug\Generics.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\bin\Debug\Generics.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\obj\Debug\Generics.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Generics\obj\Debug\Generics.pdb
