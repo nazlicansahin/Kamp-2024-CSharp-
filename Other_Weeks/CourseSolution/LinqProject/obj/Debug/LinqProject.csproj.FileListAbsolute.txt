@@ -1,0 +1,7 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\bin\Debug\LinqProject.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\bin\Debug\LinqProject.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\obj\Debug\LinqProject.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\LinqProject\obj\Debug\LinqProject.pdb
