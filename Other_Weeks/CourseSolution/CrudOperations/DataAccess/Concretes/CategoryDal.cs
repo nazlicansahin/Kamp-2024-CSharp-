@@ -9,7 +9,16 @@ namespace CrudOperations.DataAccess.Concretes
     internal class CategoryDal : Category, IRepo<Category>
     {
         List<Category> _categories = new List<Category>();
+        public CategoryDal()
+        {
+            Category category1 = new Category();
+            category1.Name = "Patterns";
 
+            Category category2 = new Category();
+            category2.Name = "Programming";
+
+            _categories = new List<Category> { category1, category2 };
+        }
         public void Add(Category entity)
         {
             _categories.Add(entity);
