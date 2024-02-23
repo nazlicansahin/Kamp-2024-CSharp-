@@ -20,7 +20,7 @@ namespace LinqProject
             {
                 new Product { ProductId = 1, CategoryId = 2, ProductName ="iphone ", QuantityPerUnit="256 gb", UnitInStock= 3, UnitPrice= 10000  },
                 new Product { ProductId = 1, CategoryId = 1, ProductName ="HP", QuantityPerUnit="Victus", UnitInStock= 4, UnitPrice= 1000  },
-                new Product { ProductId = 1, CategoryId = 3, ProductName ="ipad ", QuantityPerUnit="256 gb", UnitInStock= 4, UnitPrice= 100000  },
+                new Product { ProductId = 1, CategoryId = 4, ProductName ="ipad ", QuantityPerUnit="256 gb", UnitInStock= 4, UnitPrice= 100000  },
 
             };
 
