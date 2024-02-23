@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace CrudOperations
 {
-    public class Instructor
+    public class Instructor : IEntity
     {
 
-            public int Id { get; set; }
             public string Name { get; set; }
             public string Bio { get; set; }
-        
+        public int Id { get ; set ; }
     }
 }

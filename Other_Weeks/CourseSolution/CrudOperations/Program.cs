@@ -15,5 +15,12 @@ namespace CrudOperations
 
 
         }
-    
+
+   
+
+    }
+    class Crud : IRepo
+    {
+
+    }
 }
