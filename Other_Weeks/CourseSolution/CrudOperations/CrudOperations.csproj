@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\CategoryManager.cs" />
+    <Compile Include="Business\CourseManager.cs" />
+    <Compile Include="Business\InstructorManager.cs" />
     <Compile Include="DataAccess\Concretes\CategoryDal.cs" />
     <Compile Include="DataAccess\Concretes\CourseDal.cs" />
     <Compile Include="DataAccess\Concretes\InstructorDal.cs" />
@@ -57,8 +60,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Business\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

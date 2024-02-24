@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CrudOperations.DataAccess.Concretes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,86 +12,38 @@ namespace CrudOperations
     {
         static void Main(string[] args)
         {
-            Category category = new Category()
-            {
-                Name = "Test",
-                Id = 1,
-                Description = "Test",
-            };
+            CourseManager courseManager = new(new CourseDal());
 
+            List<Course> _courses = courseManager.GetAll();
+            for (int i = 0; i < _courses.Count; i++)
+            {
+                Console.WriteLine(_courses[i].CourseName + "  Eğitmen: " + _courses[i].InstructorName);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+            InstructorManager instructorManager = new(new InstructorDal());
+
+            List<Instructor> _instructor = instructorManager.GetAll();
+            for (int i = 0; i < _instructor.Count; i++)
+            {
+                Console.WriteLine(_instructor[i].FirstName + " " + _instructor[i].LastName);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+            CategoryManager categoryManager = new(new CategoryDal());
+
+            List<Category> _category = categoryManager.GetAll();
+            for (int i = 0; i < _category.Count; i++)
+            {
+                Console.WriteLine(_category[i].CategoryName);
+            }
         }
 
    
 
     }
-    //class Crud : IRepo<IEntity>
-    //{
-
-    //    List<IEntity> _categories = new List<IEntity>();
-
-
-    //    public void Add(IEntity entity)
-    //    {
-    //        _categories.Add(entity);
-    //        _categories.ForEach(category => Console.WriteLine(category.Id));
-    //    }
-
-    //    //public void CategoryAdd(Category entity)
-    //    //{
-    //    //    _categories.Add(entity);
-    //    //    _categories.ForEach(category => Console.WriteLine(category.Name));
-
-    //    //}
-
-  
-
-    //    //public void CategoryDelete(int id)
-    //    //{
-    //    //    Category categoriesToDelete = _categories.SingleOrDefault(c => c.Id == id);
-
-    //    //    _categories.Remove(categoriesToDelete);
-    //    //}
-
-    //    public IEnumerable<IEntity> GetAll()
-    //    {
-    //        return _categories;
-
-    //    }
-
-    //    public Category GetCategoryById(int id)
-    //    {
-    //        throw new NotImplementedException();
-    //    }
-
-    //    public void UpdateCategory(Category entity)
-    //    {
-    //        var categoryName = _categories.FirstOrDefault(c => c.Name == entity.Name);
-    //        if (categoryName != null)
-    //        {
-    //            categoryName.Name = entity.Name;
-    //        }
-    //    }
-
-    //    public void Update(IEntity entity)
-    //    {
-    //        throw new NotImplementedException();
-    //    }
-
-    //    //IEnumerable<IEntity> IRepo<IEntity>.GetAll()
-    //    //{
-    //    //    throw new NotImplementedException();
-    //    //}
-
-    //    IEntity IRepo<IEntity>.GetById(int id)
-    //    {
-    //        throw new NotImplementedException();
-    //    }
-
-    //    public void Delete(int id)
-    //    {
-    //        IEntity categoriesToDelete = _categories.SingleOrDefault(c => c.Id == id);
-
-    //        _categories.Remove(categoriesToDelete);
-    //    }
-    //}
 }
