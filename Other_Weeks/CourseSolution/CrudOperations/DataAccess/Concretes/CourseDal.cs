@@ -27,7 +27,7 @@ namespace CrudOperations.DataAccess.Concretes
 
 
             Course course2 = new Course();
-            course2.Title = "Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)";
+            course2.Title = "Silindi Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)";
             course2.InstructorId = 1;
             course2.Id = 2;
             course2.CategoryId = 1;
@@ -93,7 +93,7 @@ namespace CrudOperations.DataAccess.Concretes
 
         public void Delete(int id)
         {
-            Course ToDelete = _list.SingleOrDefault(c => c.Id == id);
+            Course ToDelete = _list.FirstOrDefault(c => c.Id == id);
 
             _list.Remove(ToDelete);
         }

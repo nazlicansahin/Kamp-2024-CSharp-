@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvYIh+L2cfChwe+AYG//bLAML/DbF1qBjJ4uxMY3IDmmNriV7rNDS0RaL00GwjL91OUP77mt8g9ghFWcs9lUqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diablo\\source\\repos\\Kamp-2024-CSharp-\\Other_Weeks\\CourseSolution\\CrudOperations\\CrudOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

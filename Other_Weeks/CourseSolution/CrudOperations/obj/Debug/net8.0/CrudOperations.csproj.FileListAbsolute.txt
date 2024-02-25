@@ -1,0 +1,14 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\bin\Debug\net8.0\CrudOperations.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\bin\Debug\net8.0\CrudOperations.dll.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\bin\Debug\net8.0\CrudOperations.deps.json
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\bin\Debug\net8.0\CrudOperations.runtimeconfig.json
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\bin\Debug\net8.0\CrudOperations.dll
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\bin\Debug\net8.0\CrudOperations.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\CrudOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\CrudOperations.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\CrudOperations.sourcelink.json
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\CrudOperations.dll
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\refint\CrudOperations.dll
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\CrudOperations.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\CrudOperations.genruntimeconfig.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\CrudOperations\obj\Debug\net8.0\ref\CrudOperations.dll
