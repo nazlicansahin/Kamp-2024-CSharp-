@@ -1,4 +1,5 @@
-﻿using CrudOperations.DataAccess.Concretes;
+﻿using CrudOperations.Business;
+using CrudOperations.DataAccess.Concretes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,30 +18,30 @@ namespace CrudOperations
             List<Course> _courses = courseManager.GetAll();
             for (int i = 0; i < _courses.Count; i++)
             {
-                Console.WriteLine(_courses[i].CourseName + "  Eğitmen: " + _courses[i].InstructorName);
+                Console.WriteLine(_courses[i].Title + "  Eğitmen: " + _courses[i].InstructorId);
             }
 
             Console.WriteLine();
             Console.WriteLine();
 
-            InstructorManager instructorManager = new(new InstructorDal());
+        //    InstructorManager instructorManager = new(new InstructorDal());
 
-            List<Instructor> _instructor = instructorManager.GetAll();
-            for (int i = 0; i < _instructor.Count; i++)
-            {
-                Console.WriteLine(_instructor[i].FirstName + " " + _instructor[i].LastName);
-            }
+        //    List<Instructor> _instructor = instructorManager.GetAll();
+        //    for (int i = 0; i < _instructor.Count; i++)
+        //    {
+        //        Console.WriteLine(_instructor[i].FirstName + " " + _instructor[i].LastName);
+        //    }
 
-            Console.WriteLine();
-            Console.WriteLine();
+        //    Console.WriteLine();
+        //    Console.WriteLine();
 
-            CategoryManager categoryManager = new(new CategoryDal());
+        //    CategoryManager categoryManager = new(new CategoryDal());
 
-            List<Category> _category = categoryManager.GetAll();
-            for (int i = 0; i < _category.Count; i++)
-            {
-                Console.WriteLine(_category[i].CategoryName);
-            }
+        //    List<Category> _category = categoryManager.GetAll();
+        //    for (int i = 0; i < _category.Count; i++)
+        //    {
+        //        Console.WriteLine(_category[i].CategoryName);
+        //    }
         }
 
    

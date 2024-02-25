@@ -12,34 +12,33 @@ namespace CrudOperations.Business
     {
 
 
-//        private readonly CourseDal _courseDal;
+        private readonly CourseDal _courseDal;
 
-//        public CourseManager(CourseDal courseDal)
-//        {
-//            _courseDal = courseDal;
-//        }
+        public CourseManager(CourseDal courseDal)
+        {
+            _courseDal = courseDal;
+        }
 
-//        public void Add(Course courses)
-//        {
-//            _courseDal.Add(courses);
-//        }
+        public void Add(Course courses)
+        {
+            _courseDal.Add(courses);
+        }
 
-//        public void Delete(Course course)
-//        {
-//            _courseDal.Delete(course);
-//        }
+        public void Delete(int id)
+        {
+            _courseDal.Delete(id);
+        }
 
-//        public List<Course> GetAll()
-//        {
-//            return _courseDal.GetAll();
-//        }
+        public List<Course> GetAll()
+        {
+            return (List<Course>)_courseDal.GetAll();
+        }
 
-//        public void Update(Course courses)
-//        {
-//            _courseDal.Update(courses);
-//        }
-//    }
-//}
-
+        public void Update(Course courses)
+        {
+            _courseDal.Update(courses);
+        }
     }
 }
+
+    
