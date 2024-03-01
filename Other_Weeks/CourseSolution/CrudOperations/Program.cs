@@ -13,23 +13,23 @@ namespace CrudOperations
     {
         static void Main(string[] args)
         {
-            CourseManager courseManager = new(new CourseDal());
+            //CourseManager courseManager = new(new CourseDal());
 
             
-            Course course9 = new Course();
-            course9.InstructorId = 1;
-            course9.Id = 8;
-            course9.CategoryId = 1;
-            course9.Description = string.Empty;
-            course9.Title = "2025 Yazılım Geliştirici Yetiştirme Kampı (C#)";
-            course9.Price = 0;
-            courseManager.Add(course9);
+            //Course course9 = new Course();
+            //course9.InstructorId = 1;
+            //course9.Id = 8;
+            //course9.CategoryId = 1;
+            //course9.Description = string.Empty;
+            //course9.Title = "2025 Yazılım Geliştirici Yetiştirme Kampı (C#)";
+            //course9.Price = 0;
+            //courseManager.Add(course9);
 
 
-            courseManager.Delete(2);
-            List<Course> _courses = courseManager.GetAll();
+            //courseManager.Delete(2);
+            //List<Course> _courses = courseManager.GetAll();
             
-            Console.ReadLine();
+            //Console.ReadLine();
 
         }
 
