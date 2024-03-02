@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week2Study")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebd00ffb09a62a9bd99b26f55e81ad8ff8f9d8b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6119b104a0b53a5070fb1179508ba54c6c67eed8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week2Study")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week2Study")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
