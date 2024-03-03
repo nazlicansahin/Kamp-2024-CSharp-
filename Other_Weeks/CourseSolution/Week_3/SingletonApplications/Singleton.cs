@@ -119,12 +119,14 @@ namespace SingletonApplications
         }
 
         // Example method of the Singleton class
+            int result =0;
         public void SomeMethod()
         {
             Console.WriteLine("Executing SomeMethod...");
 
             // Example logic
-            int result = Calculate(5, 3);
+            result++;
+
             Console.WriteLine("Result: " + result);
         }
 

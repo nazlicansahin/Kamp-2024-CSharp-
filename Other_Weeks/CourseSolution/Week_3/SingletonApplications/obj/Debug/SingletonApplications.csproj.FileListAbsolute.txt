@@ -1,0 +1,7 @@
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\bin\Debug\SingletonApplications.exe.config
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\bin\Debug\SingletonApplications.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\bin\Debug\SingletonApplications.pdb
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\obj\Debug\SingletonApplications.csproj.AssemblyReference.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\obj\Debug\SingletonApplications.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\obj\Debug\SingletonApplications.exe
+C:\Users\Diablo\source\repos\Kamp-2024-CSharp-\Other_Weeks\CourseSolution\Week_3\SingletonApplications\obj\Debug\SingletonApplications.pdb
